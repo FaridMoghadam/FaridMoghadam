@@ -1,6 +1,10 @@
 - 👋 Hi, I’m Farid.SabahiMoghadam
 - 🌱 I’m currently learning python, data science and machine learning
-- 💞️ I'm looking to collaborate on International Companies
+- 💞️ I'm looking for cooperation in international companies
+
+
+
+
 
 <!---
 FaridMoghadam/FaridMoghadam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
